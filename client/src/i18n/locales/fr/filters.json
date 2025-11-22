@@ -1,0 +1,28 @@
+{
+  "source": "Source",
+  "season": "Saison",
+  "category": "Catégorie",
+  "nutriscore": "Nutriscore",
+  "sources": {
+    "MANGER_BOUGER": "Manger Bouger",
+    "MARMITON": "Marmiton",
+    "CUSTOM": "Personnalisé"
+  },
+  "seasons": {
+    "WINTER": "Hiver",
+    "SPRING": "Printemps",
+    "SUMMER": "Été",
+    "AUTUMN": "Automne"
+  },
+  "categories": {
+    "STARTER": "Entrée",
+    "FULL_COURSE": "Plat complet",
+    "MAIN_COURSE": "Plat principal",
+    "SIDE_DISH": "Accompagnement",
+    "DESSERT": "Dessert",
+    "SAUCE": "Sauce",
+    "DRINK": "Boisson",
+    "OTHER": "Autre",
+    "UNKNOWN": "Inconnu"
+  }
+}

@@ -1,0 +1,11 @@
+export enum Category {
+  STARTER = 'STARTER',
+  FULL_COURSE = 'FULL_COURSE',
+  MAIN_COURSE = 'MAIN_COURSE',
+  SIDE_DISH = 'SIDE_DISH',
+  DESSERT = 'DESSERT',
+  SAUCE = 'SAUCE',
+  DRINK = 'DRINK',
+  OTHER = 'OTHER',
+  UNKNOWN = 'UNKNOWN',
+}
